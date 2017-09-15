@@ -1,4 +1,4 @@
 # preliminaries
 general stuff
 
-It is very important to read cearfully the following lines:
+It is very important to cearfully read the following lines:
